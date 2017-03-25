@@ -1,5 +1,5 @@
 {
-  "name": "messenger-get-started",
+  "name": "almacen-b",
   "version": "1.0.0",
   "description": "Get started example for Messenger Platform",
   "main": "app.js",
@@ -10,7 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.heroku.com/limitless-oasis-36313.git"
+    "url": "https://git.heroku.com/whispering-retreat-80769.git
+"
   },
   "author": "Facebook",
   "license": "ISC",
